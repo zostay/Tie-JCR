@@ -1,0 +1,17 @@
+---
+name: Tie-JCR
+version: 0.01
+author:
+  - 'Andrew Sterling Hanenkamp, E<lt>hanenkamp@cpan.orgE<gt>'
+abstract: A tied hash interface for Java::JCR::Node
+license: perl
+resources:
+  license: http://dev.perl.org/licenses/
+provides:
+  Tie::JCR:
+    file: lib/Tie/JCR.pm
+    version: 0.01
+generated_by: Module::Build version 0.28
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.2.html
+  version: 1.2

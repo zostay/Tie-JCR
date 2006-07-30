@@ -1,0 +1,9 @@
+Build.PL
+Changes
+lib/Tie/JCR.pm
+LICENSE
+MANIFEST			This list of files
+META.yml
+t/01-use.t
+t/02-pod.t
+t/03-node.t
